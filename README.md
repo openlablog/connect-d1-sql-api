@@ -1,4 +1,4 @@
-# 连接cloudflare d1数据库的SQL查询API，支持HTTP和WebSocket两种连接方式
+![connect-d1-sql-api](https://socialify.git.ci/openlablog/connect-d1-sql-api/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 
 ## 主要功能
 
