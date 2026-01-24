@@ -1,4 +1,4 @@
-![connect-d1-sql-api](https://socialify.git.ci/openlablog/connect-d1-sql-api/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
+![](https://socialify.git.ci/openlablog/connect-d1-sql-api/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 
 ## 主要功能
 
@@ -81,4 +81,4 @@
 
 ## 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=openlablog/connect-d1-sql-api&type=date&legend=top-left)](https://www.star-history.com/#openlablog/connect-d1-sql-api&type=date&legend=top-left)
+![](https://api.star-history.com/svg?repos=openlablog/connect-d1-sql-api&type=date&legend=top-left)
