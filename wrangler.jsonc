@@ -1,0 +1,24 @@
+{
+    "name": "connect-d1-sql-api",
+    "main": "./_worker.js",
+    "compatibility_date": "2025-11-18",
+    "placement": {
+        "mode": "smart"
+    },
+    "vars": {
+        "USERNAME": "root",
+        "PASSWORD": "root"
+    },
+    "d1_databases": [
+        {
+            "binding": "d1_test",
+            "database_name": "test",
+            "database_id": "f3f4b0ca-cc8b-4484-a717-15da6705aa64"
+        },
+        {
+            "binding": "d1_test2",
+            "database_name": "test2",
+            "database_id": "f3f4b0ca-cc8b-4484-a717-15da6705aa64"
+        }
+    ]
+}
