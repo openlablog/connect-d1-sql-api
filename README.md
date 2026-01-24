@@ -78,3 +78,7 @@
   ]
 }
 ```
+
+## 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=openlablog/connect-d1-sql-api&type=date&legend=top-left)](https://www.star-history.com/#openlablog/connect-d1-sql-api&type=date&legend=top-left)
