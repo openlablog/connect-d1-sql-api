@@ -1,26 +1,24 @@
-![](https://socialify.git.ci/openlablog/connect-d1-sql-api/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
+![](https://socialify.git.ci/openlablog/connect-d1-sql-api/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light)
 
-## 主要功能
+## 功能
 
 1. 支持多数据库连接
 2. 安全凭证，验证用户名密码
 3. WebSocket和HTTP方式
 
-## 部署方法
+## 部署
 
 1. Fork本仓库
 2. 修改wrangler.jsonc，设置参数：用户名（USERNAME）和密码 （PASSWORD）
 3. 修改参数：（d1_databases），支持绑定多个d1数据库
 4. 创建workers部署即可
 
-## 请求地址
+## 访问
 
 1. WebSocket链接：wss://your-worker.workers.dev/ws
 2. HTTP链接：https://your-worker.workers.dev/api，POST请求
 
-## 请求响应体
-
-### 1、请求体
+## 请求
 
 ```json
 {
@@ -44,7 +42,7 @@
 }
 ```
 
-### 2、响应体
+## 响应
 
 ```json
 {
@@ -78,7 +76,3 @@
   ]
 }
 ```
-
-## 历史
-
-![](https://api.star-history.com/svg?repos=openlablog/connect-d1-sql-api&type=date&legend=top-left)
