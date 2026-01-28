@@ -1,4 +1,4 @@
-![](https://socialify.git.ci/openlablog/connect-d1-sql-api/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light)
+![](https://socialify.git.ci/openlablog/connect-d1-sql-api/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light&t=123456)
 
 ## 功能
 
@@ -25,7 +25,7 @@
   "username":"root",
   "password":"root",
   "database":"d1_test",
-  "sql": "SELECT * FROM table1 LIMIT 100",
+  "sql": "SELECT * FROM table1 LIMIT 10",
   "params": []
 }
 ```
