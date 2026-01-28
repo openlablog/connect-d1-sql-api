@@ -25,7 +25,7 @@
   "username":"root",
   "password":"root",
   "database":"d1_test",
-  "sql": "SELECT * FROM table1 LIMIT 10",
+  "sql": "SELECT * FROM table1 LIMIT 100",
   "params": []
 }
 ```
